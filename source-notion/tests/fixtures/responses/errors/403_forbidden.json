@@ -1,0 +1,6 @@
+{
+  "object": "error",
+  "status": 403,
+  "code": "restricted_resource",
+  "message": "The integration does not have access to this resource. Ensure the integration has the correct permissions."
+}
