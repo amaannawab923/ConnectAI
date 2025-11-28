@@ -1,0 +1,41 @@
+{
+  "object": "list",
+  "results": [
+    {
+      "object": "user",
+      "id": "b12e6e1a-3f4d-4c5e-8f6a-7b8c9d0e1f2a",
+      "type": "bot",
+      "name": "Test Integration Bot",
+      "avatar_url": "https://www.notion.so/images/default-avatar.png",
+      "bot": {
+        "owner": {
+          "type": "workspace",
+          "workspace": true
+        },
+        "workspace_name": "Test Workspace"
+      }
+    },
+    {
+      "object": "user",
+      "id": "c23f7f2b-4a5e-5d6f-9a7b-8c9d0e1f2a3b",
+      "type": "person",
+      "name": "John Doe",
+      "avatar_url": "https://www.notion.so/images/user-avatar.png",
+      "person": {
+        "email": "john.doe@example.com"
+      }
+    },
+    {
+      "object": "user",
+      "id": "d34g8g3c-5b6f-6e7g-0b8c-9d0e1f2a3b4c",
+      "type": "person",
+      "name": "Jane Smith",
+      "avatar_url": null,
+      "person": {
+        "email": "jane.smith@example.com"
+      }
+    }
+  ],
+  "next_cursor": null,
+  "has_more": false
+}

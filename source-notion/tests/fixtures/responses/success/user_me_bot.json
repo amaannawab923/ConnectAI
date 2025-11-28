@@ -1,0 +1,14 @@
+{
+  "object": "user",
+  "id": "b12e6e1a-3f4d-4c5e-8f6a-7b8c9d0e1f2a",
+  "type": "bot",
+  "name": "Test Integration Bot",
+  "avatar_url": "https://www.notion.so/images/default-avatar.png",
+  "bot": {
+    "owner": {
+      "type": "workspace",
+      "workspace": true
+    },
+    "workspace_name": "Test Workspace"
+  }
+}

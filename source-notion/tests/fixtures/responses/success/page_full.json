@@ -1,0 +1,55 @@
+{
+  "object": "page",
+  "id": "e5f6a7b8-c9d0-1234-5678-90abcdef1234",
+  "created_time": "2024-01-18T09:00:00.000Z",
+  "last_edited_time": "2024-01-22T14:30:00.000Z",
+  "created_by": {
+    "object": "user",
+    "id": "c23f7f2b-4a5e-5d6f-9a7b-8c9d0e1f2a3b"
+  },
+  "last_edited_by": {
+    "object": "user",
+    "id": "c23f7f2b-4a5e-5d6f-9a7b-8c9d0e1f2a3b"
+  },
+  "icon": {
+    "type": "emoji",
+    "emoji": "📄"
+  },
+  "cover": {
+    "type": "external",
+    "external": {
+      "url": "https://images.unsplash.com/photo-1234567890"
+    }
+  },
+  "properties": {
+    "title": {
+      "id": "title",
+      "type": "title",
+      "title": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Project Planning Document",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Project Planning Document",
+          "href": null
+        }
+      ]
+    }
+  },
+  "parent": {
+    "type": "database_id",
+    "database_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890"
+  },
+  "url": "https://www.notion.so/e5f6a7b8c9d0123456789abcdef1234",
+  "archived": false
+}
